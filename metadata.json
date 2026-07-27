@@ -1,0 +1,6 @@
+{
+  "name": "HunarHub",
+  "description": "An AI-powered local service marketplace in Pakistan connecting trusted professionals with service seekers through agentic workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
