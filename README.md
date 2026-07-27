@@ -123,33 +123,34 @@ Do not include markdown tags like \`\`\`json or trailing characters.`;
 
 | Sign In | Sign Up |
 |---------|---------|
-| ![Sign In](./Sign%20in.png) | ![Sign Up](./Sign%20up.png) |
+| ![Sign In](.public/Sign%20in.png) | ![Sign Up](.public/Sign%20up.png) |
 
 ---
 
 ### 🏠 Landing Page
-![landing1](./landing1.png)
-![landing2](./landing2.png)
+![landing1](.public/landing1.png)
+![landing2](.public/landing2.png)
+
 #### Footer
-![Footer](./footer.png)
+![Footer](.public/footer.png)
 
 ---
 
 ### 📅 AI Booking
 
-![AI Booking](./AI%20booking.png)
+![AI Booking](.public/AI%20booking.png)
 
 ---
 
 ### 👨‍💼 Admin Dashboard
 
-![Admin Dashboard](./Admin%20dashboard.png)
+![Admin Dashboard](.public/Admin%20dashboard.png)
 
 ---
 
 ### 👷 Provider Dashboard
 
-![Provider Dashboard](./Provider%20Dashboard.png)
+![Provider Dashboard](.public/Provider%20Dashboard.png)
 
 ---
 
@@ -157,7 +158,7 @@ Do not include markdown tags like \`\`\`json or trailing characters.`;
 
 | Light Dashboard | Dark Dashboard |
 |-----------------|----------------|
-| ![Light Dashboard](./Light%20Dashboard.png) | ![Dark Dashboard](./Dark%20Dashboard.png) |
+| ![Light Dashboard](.public/Light%20Dashboard.png) | ![Dark Dashboard](.public/Dark%20Dashboard.png) |
 
 ---
 
