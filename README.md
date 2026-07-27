@@ -117,52 +117,47 @@ Do not include markdown tags like \`\`\`json or trailing characters.`;
 
 ---
 
-## 📸 5. Screenshots & Visual Walkthrough
+## 📸 Screenshots
 
-### 1. AI Booking Assistant & Suggested Prompts
-*The AI Agentic chat window featuring suggested prompt chips conveniently located directly below the input text box for instant query submission.*
+### 🔐 Authentication
 
-```
-+-----------------------------------------------------------------------+
-|  HunarHub AI Agentic Assistant                            [● Online]  |
-+-----------------------------------------------------------------------+
-|  🤖 HunarHub AI: "Assalam-o-Alaikum! What service do you need?"       |
-|  👤 User: "My UPS is beep-tripping when electricity cuts off."        |
-|  🤖 HunarHub AI: "Parsed intent: Service = Electrician, Urgency = High"|
-+-----------------------------------------------------------------------+
-|  [ 🎤 ]  Type your maintenance issue in Urdu/English...    [ Send → ] |
-+-----------------------------------------------------------------------+
-|  ✨ SUGGESTED PROMPTS                                                 |
-|  [ ⚡ UPS Checkup ]   [ ❄️ AC Repair ]     [ 🚰 Pipe Repair ]          |
-|  [ 💄 Beauty Spa ]   [ 📚 Math Tutor ]    [ 🚗 Chauffeur ]            |
-+-----------------------------------------------------------------------+
-```
+| Sign In | Sign Up |
+|---------|---------|
+| ![Sign In](./Sign%20in.png) | ![Sign Up](./Sign%20up.png) |
 
-### 2. Verified Provider Directory
-*Browse verified technicians with clear badges, hourly rates, experience years, and real-time category filtering.*
+---
 
-```
-+-----------------------------------------------------------------------+
-| Categories: [All] [Electrician] [AC Technician] [Plumber] [Beautician]|
-+-----------------------------------------------------------------------+
-|  [Photo]  Muhammad Bilal  ⭐ 4.9 (142 reviews)      [✔ NADRA VERIFIED]|
-|           Electrician • 8 yrs exp. • PKR 800/hr                       |
-|           Skills: UPS Repair, DB Wiring, Short Circuit Detection      |
-|           [ View Profile & Book ]                                     |
-+-----------------------------------------------------------------------+
-```
+### 🏠 Landing Page
+![landing1](./landing1.png)
+![landing2](./landing2.png)
+#### Footer
+![Footer](./footer.png)
 
-### 3. Real-Time Operations & Active Dispatch
-*Track active provider ETA countdowns, simulate direct phone calls, and manage booking progress.*
+---
 
-```
-+-----------------------------------------------------------------------+
-|  ACTIVE SERVICE DISPATCH #b-101                                        |
-|  Technician: Muhammad Bilal (Electrician)                              |
-|  Estimated Arrival: 15 mins  ● Status: In-Transit                     |
-|  [ 📞 Call Provider ]   [ 💬 Send Message ]   [ 📍 Live Map ]         |
-+-----------------------------------------------------------------------+
-```
+### 📅 AI Booking
+
+![AI Booking](./AI%20booking.png)
+
+---
+
+### 👨‍💼 Admin Dashboard
+
+![Admin Dashboard](./Admin%20dashboard.png)
+
+---
+
+### 👷 Provider Dashboard
+
+![Provider Dashboard](./Provider%20Dashboard.png)
+
+---
+
+### 🎨 Dashboard Themes
+
+| Light Dashboard | Dark Dashboard |
+|-----------------|----------------|
+| ![Light Dashboard](./screenshots/Light%20Dashboard.png) | ![Dark Dashboard](./screenshots/Dark%20Dashboard.png) |
 
 ---
 
