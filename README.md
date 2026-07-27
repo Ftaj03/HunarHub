@@ -1,8 +1,11 @@
 # HunarHub — Agentic Local Service Marketplace for Pakistan 🇵🇰
 
+[![Live App](https://img.shields.io/badge/Live%20Demo-hunar--hub--tau.vercel.app-emerald?style=for-the-badge&logo=vercel)](https://hunar-hub-tau.vercel.app/)
 [![Stack](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Express%20%7C%20Tailwind-blue)](https://react.dev)
 [![AI Engine](https://img.shields.io/badge/AI%20Engine-Gemini%203.6%20Flash-orange)](https://ai.google.dev)
 [![Database](https://img.shields.io/badge/Database-Firebase%20Firestore-yellow)](https://firebase.google.com)
+
+🌐 **Live Deployed Application**: [https://hunar-hub-tau.vercel.app/](https://hunar-hub-tau.vercel.app/)
 
 **HunarHub** (ہنر ہب) is an AI-powered, agentic local service marketplace built specifically for South Asian urban centers (Lahore, Karachi, Islamabad). It connects households and businesses with trusted, NADRA-verified skilled professionals—electricians, AC mechanics, plumbers, beauticians, tutors, drivers, carpenters, and solar specialists.
 

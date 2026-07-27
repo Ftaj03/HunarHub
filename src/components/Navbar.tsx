@@ -58,8 +58,8 @@ export default function Navbar({
             className="flex items-center space-x-3 cursor-pointer group"
             onClick={() => setActivePage('landing')}
           >
-            <div className="relative flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-tr from-slate-900 to-blue-900 dark:from-blue-600 dark:to-teal-500 text-white shadow-md group-hover:scale-105 transition-transform duration-200">
-              <span className="font-display text-xl font-extrabold tracking-wider">H</span>
+            <div className="relative flex h-10 w-10 items-center justify-center rounded-xl overflow-hidden bg-white shadow-md group-hover:scale-105 transition-transform duration-200 border border-slate-200 dark:border-slate-800">
+              <img src="/favicon.png" alt="HunarHub Logo" className="h-full w-full object-cover" referrerPolicy="no-referrer" />
               <div className="absolute -right-1 -top-1 h-3.5 w-3.5 rounded-full border-2 border-white bg-emerald-500 dark:border-slate-950 shadow-xs" />
             </div>
             <div>
